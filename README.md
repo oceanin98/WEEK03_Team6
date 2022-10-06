@@ -1,4 +1,4 @@
-#WEEK03_Team6
+# WEEK03_Team6
 
 ### W03 6조 헥사곤 깃허브
 
